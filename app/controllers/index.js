@@ -1,3 +1,5 @@
+// prova modifica
+
 var win = Ti.UI.createWindow({
 		backgroundColor:'#22376F'
 });
